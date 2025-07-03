@@ -1,4 +1,7 @@
 # Convolution
+# Instalation 
+Run ```dotnet add package Convolution --version 1.0.0```
+# Documentation 
 ## Contents
 - [Types](#types)
    - [ImageFile](#imagefile)
