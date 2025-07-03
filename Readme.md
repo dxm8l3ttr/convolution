@@ -15,7 +15,7 @@ Run ```dotnet add package Convolution --version 1.0.0```
 ### ImageFile
 The ImageFile class is used to store and process image files as matrices.
 #### Properties
-- Bitmap Map
+- ```Bitmap Map```
 Bitmap of the image
 #### Constructors
 -```ImageFile(string path)```
