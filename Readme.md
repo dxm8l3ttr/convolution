@@ -47,8 +47,16 @@ Returns the convolution of the real matrices image and kernel using the overlap-
 ## Extensions
 ### Colours
 Enum for describing the colour channels of an image.
+#### Values
+- ```Red```
+- ```Blue```
+- ```Green```
+- ```Grayscale```
 ### GrayscaleType
 Enum describing the two grayscale algorithms.
+#### Values
+- ```Average```
+- ```Weighted```
 ### Extensions Class
 #### Methods
 - ```int ToGrayScale(this Color color, GrayscaleType type = GrayscaleType.Weighted)```
