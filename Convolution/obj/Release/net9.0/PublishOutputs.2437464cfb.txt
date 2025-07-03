@@ -1,8 +1,0 @@
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\Convolution.dll
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\Convolution.deps.json
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\Convolution.pdb
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\MathNet.Numerics.dll
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\Microsoft.Win32.SystemEvents.dll
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\System.Drawing.Common.dll
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\System.Private.Windows.Core.dll
-C:\Users\Surface\Documents\Convolution\Convolution\bin\Release\net9.0\publish\runtimes\win\lib\net9.0\Microsoft.Win32.SystemEvents.dll
