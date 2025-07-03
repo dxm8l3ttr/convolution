@@ -1,12 +1,12 @@
 # Convolution
 ## Contents
 - [Types](#types)
- - [ImageFile](##imagefile)
- - [Convolution](##convolution-class)
+   - [ImageFile](#imagefile)
+   - [Convolution](#convolution-class)
 - [Extensions](#extensions)
- - [Colours](##colours)
- - [GrayscaleType](##grayscaletype)
- - [Extensions](##extensions-class)
+   - [Colours](#colours)
+   - [GrayscaleType](#grayscaletype)
+   - [Extensions](#extensions-class)
 
 ## Types
 ### ImageFile
