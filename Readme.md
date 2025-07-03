@@ -1,4 +1,5 @@
 # Convolution
+Currently implements matrix convolution using the overlap-add method
 # Instalation 
 Run ```dotnet add package Convolution --version 1.0.0```
 # Documentation 
